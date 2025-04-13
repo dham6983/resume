@@ -1,4 +1,7 @@
-# resume
+# Latest Resume #
+Please refere [my latest resume](https://github.com/dham6983/resume/blob/main/Debabrata-Shome-Resume.pdf)
+
+# Cover Letter #
 Hi there,
 I am excited to apply for the open position. What drives me the most in my career is solving complex problems, regardless of the domain. I thrive on challenges that push me beyond my existing expertise, and I am always eager to learn and adapt to new technologies, methodologies, and industries.
 
@@ -9,4 +12,3 @@ I would love the opportunity to bring this mindset to your team and contribute m
 Best regards,
 Debabrata Shome
 
-Please refere [my latest resume](https://github.com/dham6983/resume/blob/main/Debabrata-Shome-Resume.pdf)
