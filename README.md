@@ -1,5 +1,5 @@
 # Latest Resume #
-Please refere [my latest resume](https://github.com/dham6983/resume/blob/main/Debabrata-Shome-Resume.pdf)
+Please refer [my latest resume](https://github.com/dham6983/resume/blob/main/Debabrata-Shome-Resume.pdf)
 
 # Cover Letter #
 Hi there,
